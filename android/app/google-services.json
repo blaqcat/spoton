@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351085795960",
+    "project_id": "mtnproject-fc454",
+    "storage_bucket": "mtnproject-fc454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351085795960:android:ec5daeaeb5b3d0f9526b8d",
+        "android_client_info": {
+          "package_name": "com.example.spoton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351085795960-a9tgftvgagfb06lcda6ub0e9mklusapd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6x2k5f2BiAYza9GNIJhuUa2eSXLcvwIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351085795960-a9tgftvgagfb06lcda6ub0e9mklusapd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
